@@ -1,1 +1,4 @@
+# Not using Travis CI for now
 .travis.yml
+
+node_modules/
